@@ -2,7 +2,6 @@
 # Portfolio Website
 A portfolio website to showcase my projects, skills, and research works.
 
-![Banner](public/banner.png)
 ![logo](https://github.com/Aisharriya/Aisharriya/blob/main/Add%20a%20heading.png)
 <h1 align="center">Hi 👋, I'm Aisharriya Dasgupta</h1>
 <h3 align="center">A passionate Data Analyst and Economic Researcher</h3>
