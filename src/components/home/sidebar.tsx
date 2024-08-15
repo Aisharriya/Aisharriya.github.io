@@ -65,7 +65,7 @@ export default function NavbarDropdown(props: JSX.IntrinsicAttributes) {
 							className='rounded-full'
 							height={500}
 							width={500}
-							src={nimishNoBg}
+							src={imgAish}
 							alt='Aisharriya'
 							loading='lazy'
 							placeholder='blur'
