@@ -1,11 +1,11 @@
-// import React from 'react';
-// import Lottie from 'lottie-react';
-// import ResearchAnimation from '../../assets/lottie/data-analysis.json';
-// import SkillBadge from 'components/common/SkillBadge';
-// import { allResearchPapers, allResearchUrls } from 'utils/constants/Research';
-// import Link from 'next/link';
+import React from 'react';
+import Lottie from 'lottie-react';
+import ResearchAnimation from '../../assets/lottie/data-analysis.json';
+import SkillBadge from 'components/common/SkillBadge';
+import { allResearchPapers, allResearchUrls } from 'utils/constants/Research';
+import Link from 'next/link';
 
-// export default function Research() {
+ export default function Research() {
 // 	return (
 // 		<section className='home-section flex-center' id='research'>
 // 			<div className='max-section-width flex gap-4 items-center justify-center relative text-center md:text-right'>
@@ -55,4 +55,4 @@
 // 			</div>
 // 		</section>
 // 	);
-// }
+ }
