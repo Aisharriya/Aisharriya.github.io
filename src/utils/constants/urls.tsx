@@ -6,7 +6,7 @@ export const SocialUrls = {
 	instagramDM: 'https://ig.me/m/nimishjain_',
 	facebook: 'https://www.facebook.com/nimishjain100701',
 	email: 'mailto:aisha29050202@gmail.com',
-	resume: 'https://resume.nimish-jain.com?src=Portfolio',
+	resume: 'https://drive.google.com/file/d/1iDz93djb_g8bu-1Mzv8tyUUmcdE7Hcrd/view?usp=drivesdk',
 	hackerrank: 'https://www.hackerrank.com/aisharriya_dasg2',
 	codechef: 'https://www.codechef.com/users/nimishjain1007',
 	devTo: 'https://dev.to/nimishjn',
