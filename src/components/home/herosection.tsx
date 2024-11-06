@@ -69,7 +69,7 @@ export default function HeroSection() {
 					</div>
 					<div className='flex gap-2 item-center justify-center sm:justify-start text-sm sm:text-base'>
 						<Button variant='primary' className='whitespace-nowrap'>
-							<Link href='https://drive.google.com/file/d/1ZAemas4VEDBqxpxDsrcRX08SbR8OTJwv/view?usp=drivesdk'>
+							<Link href='https://drive.google.com/file/d/1iDz93djb_g8bu-1Mzv8tyUUmcdE7Hcrd/view?usp=drivesdk'>
 								View Resume
 							</Link>
 						</Button>
